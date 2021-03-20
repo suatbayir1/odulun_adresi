@@ -1,1 +1,1 @@
-PHP, React.js, Material-ui teknolojilerini kullanarak gerçekleştirdiğim video oyunu turnuva sitesidir.
+PHP, React.js, Material-ui teknolojilerini kullanarak geliştirdiğim video oyunu turnuva sitesidir.
